@@ -1,4 +1,4 @@
-git clone https://github.com/Semutireng22/monad-frontrunner.git
+git clone https://github.com/caitoudo/monplay
 
 cd monad-frontrunner
 
