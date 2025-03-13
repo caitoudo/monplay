@@ -1,0 +1,20 @@
+{
+  "name": "monad-frontrunner-bot",
+  "version": "1.0.0",
+  "description": "Monad Frontrunner Bot in Node.js",
+  "main": "play.js",
+  "scripts": {
+    "start": "node play.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.13.5",
+    "chalk": "^4.1.2",
+    "figlet": "^1.7.0",
+    "ora": "^5.4.1",
+    "toml": "^3.0.0",
+    "inquirer": "^8.2.6"
+  }
+} 
